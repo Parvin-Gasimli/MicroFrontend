@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="MUlhnluNz50JgVNFEUhH" name="Page-1">
+        <mxGraphModel dx="820" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="import React from 'react'&#13;&#10;&#13;&#10;const Header = () =&gt; {&#13;&#10;  return (&#13;&#10;    &lt;div className='p-5 bg-gray-600 text-white text-3xl font-bold'&gt;&#13;&#10;        &lt;h1&gt;Header Component&lt;/h1&gt;&#13;&#10;    &lt;/div&gt;&#13;&#10;  )&#13;&#10;}&#13;&#10;&#13;&#10;export default Header" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry width="250" height="220" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
